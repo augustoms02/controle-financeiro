@@ -1,0 +1,21 @@
+.finance_wrapper {
+    margin: 30px auto;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    max-width: 1000px;
+    max-height: 250px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.finance_list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 25% 25% 20%;
+    margin: 10px;
+}
+.finance_list li {
+    color: black;
+    font-weight: bold;
+}
+

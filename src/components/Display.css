@@ -1,0 +1,23 @@
+.display_list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 25% 25% 20% 30%;
+    align-items: center;
+    margin: 10px; 
+    color: grey;
+}
+.display_button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-right: -50px;
+}
+.display_button img {
+    width: 25px;
+    height: 25px;
+}
+.display_img {
+    width: 25px;
+    height: 25px;
+}
+
