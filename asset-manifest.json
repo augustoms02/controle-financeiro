@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/controle-financeiro/static/css/main.8cdb6d78.css",
+    "main.js": "/controle-financeiro/static/js/main.ef868d7d.js",
+    "index.html": "/controle-financeiro/index.html",
+    "main.8cdb6d78.css.map": "/controle-financeiro/static/css/main.8cdb6d78.css.map",
+    "main.ef868d7d.js.map": "/controle-financeiro/static/js/main.ef868d7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cdb6d78.css",
+    "static/js/main.ef868d7d.js"
+  ]
+}
